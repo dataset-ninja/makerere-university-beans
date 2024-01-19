@@ -13,9 +13,9 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "makerere university beans"
+PROJECT_NAME: str = "Makerere University Beans"
 PROJECT_NAME_FULL: str = "Makerere University Beans Image Dataset"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -79,7 +79,8 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ug.edu.gh/"
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "__PRETEXT__": "Additionally, certain images contain information pertaining to other diseases, denoted by the tag ***has other symptoms***"
+    "health statuses": ["healthy", "bean rust", "als"],
+    "__POSTTEXT__": "Additionally, every image marked with the ***variety***, ***age***, ***district***, ***datetime***, ***subcounty***, ***has other symptoms*** tags",
 }
 TAGS: Optional[List[str]] = None
 

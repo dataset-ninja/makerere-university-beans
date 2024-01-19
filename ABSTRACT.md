@@ -1,4 +1,11 @@
-This **Makerere University Beans Image Dataset** was created to provide an open and accessible, well labeled, sufficiently curated image dataset. This is to enable researchers to build various machine learning experiments to aid innovations that may include; bean crop disease diagnosis and spatial analysis.
+This **Makerere University Beans Image Dataset** was created to provide an open and accessible, well labeled, sufficiently curated image dataset. This is to enable researchers to build various machine learning experiments to aid innovations that may include; bean crop disease diagnosis and spatial analysis. The dataset consists of bean image crops spread collected across the different regions in Uganda. Data were collected by random sampling from the areas where bean crop farming is practiced; these areas were identified by the experts. A few samples were collected from the identified areas to generate a dataset that represents the overall bean farming in the country.
+
+Note, similar **Makerere University Beans Image Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
+
+- [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)
+- [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
+- [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
+- [Makerere University Maize Image Dataset](https://datasetninja.com/makerere-university-maize)
 
 ## Motivation
 
@@ -24,10 +31,3 @@ with Adsurv for a specific data collector. The overall data collection exercise 
 <img src="https://user-images.githubusercontent.com/120389559/298027417-a478b366-a1c1-4331-a85f-02fc11ba038b.png" alt="image" width="800">
 
 <span style="font-size: smaller; font-style: italic;">On the left is the trifoliate image after preprocessing, on the right is the original trifoliate image with the overexposure defect.</span>
-
-Note, similar **Makerere University Beans Image Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
-
-- [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)
-- [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
-- [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
-- [Makerere University Maize Image Dataset](https://datasetninja.com/makerere-university-maize)
