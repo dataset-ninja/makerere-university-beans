@@ -29,3 +29,4 @@ Note, similar **Makerere University Beans Image Dataset** datasets are also avai
 
 - [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)
 - [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
+- [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
