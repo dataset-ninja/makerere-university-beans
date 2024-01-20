@@ -1,6 +1,6 @@
 Dataset **Makerere University Beans** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/t/l/qM/KGsuTnWUq34HAp7hqoVehLOkT9zWW5sJX3kH10IVYDafCfNcOJtSQYo6dMrl5ckFPKFOhyN3mO8ScFPUNY0s5Ykk87ZiqbyeOLqMwfLOCl6Qg9LLkReFDOWREwZP.tar)
+ [Download](https://www.dropbox.com/scl/fi/x1ocz6v93sxoa9utytsbd/makerere-university-beans-DatasetNinja.tar?rlkey=5h1jgxn20ra1pcwxkbxxutrzp&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
